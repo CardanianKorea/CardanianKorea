@@ -6,4 +6,4 @@ We are currently developing a donation NFT. 🔭
 
 SKILL
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
